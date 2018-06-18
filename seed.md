@@ -13,7 +13,8 @@ Grupo de pesquisa em Educação em Engenharia de Software. Parte do grupo de pes
 
 * SBES 2011 (com USP)
 * FEES 2011 (com USP)
-* FIE 2013
+* Patterns for Engagement to FLOSS Projects
+* FIE 2013 
 * FEES 2013
 * CSE 2015 (journal)
 * FIE 2018 (com Debora e Roberto)
@@ -25,7 +26,7 @@ Grupo de pesquisa em Educação em Engenharia de Software. Parte do grupo de pes
 * Leandro Ferreira (M, 2015): SFOHART - um sistema de recomendação para adoção de software livre
 
 
-### Participantes
+### Alunos
 
 + Fernanda (doutoranda)
 + Moara (mestranda)
